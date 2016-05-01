@@ -1,0 +1,17 @@
+{
+  "name": "thisisawesome",
+  "version": "0.0.1",
+  "description": "Description for my project",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "path": "^0.12.7",
+    "q": "^1.4.1",
+    "rally": "^0.2.0"
+  }
+}
